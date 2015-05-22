@@ -1,0 +1,14 @@
+{
+  "name": "kurento-module-testingmodule2",
+  "keywords": [
+    "Kurento"
+  ],
+  "authors": [],
+  "ignore": [
+    "doc/",
+    "lib/",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "main": "dist/kurento-module-testingmodule2.js"
+}
